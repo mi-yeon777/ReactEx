@@ -16,7 +16,7 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 >>>>>>> 02a5025 (Initial commit)
 
-#리액트 bash 배포를 위한 명령어와 에러 
+# 리액트 bash 배포를 위한 명령어와 에러 
 
 user@DESKTOP-9R0N82A MINGW64 ~/Desktop/BackEend/React/36.React_File upload_download
 $ git config --global user.name na (이름 상관x)
