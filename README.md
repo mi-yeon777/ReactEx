@@ -21,16 +21,20 @@ If you are developing a production application, we recommend using TypeScript wi
 user@ 내로컬 ~/Desktop/BackEend/React/36.React_File upload_download
 내로컬의 프로젝트 경로 지정후
 
-git config --global user.name "na0"임의명
+git config --global user.name "na0"(임의명)
+
 git config --global user.email "깃허브에 등록된 이메일"
 
 
 git add .
+
 git commit -m "first commit" (내 커밋 메시지)
 
 깃허브 리포 연결(깃허브에서 새 저장소 만든 뒤 복사)
+
 git remote add origin https://github.com/사용자명/저장소이름.git
 
 푸시(깃허브에 업로드)
 git branch -M main
+
 git push -u origin main
