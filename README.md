@@ -22,7 +22,6 @@ user@ 내로컬 ~/Desktop/BackEend/React/36.React_File upload_download
 내로컬의 프로젝트 경로 지정후
 
 git config --global user.name "na0"(임의)
-
 git config --global user.email "깃허브에 등록된 이메일"
 
 git add .
