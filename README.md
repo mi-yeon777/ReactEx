@@ -22,7 +22,7 @@ user@DESKTOP-9R0N82A MINGW64 ~/Desktop/BackEend/React/36.React_File upload_downl
 $ git config --global user.name na (이름 상관x)
 
 user@DESKTOP-9R0N82A MINGW64 ~/Desktop/BackEend/React/36.React_File upload_download (main)        
-$ git config --global user.email web01214@gmail.com (내 깃허브 계정)
+$ git config --global user.email oooo14@gmail.com (내 깃허브 계정)
 
 user@DESKTOP-9R0N82A MINGW64 ~/Desktop/BackEend/React/36.React_File upload_download (main)
 $ git add.(add . 공백후 .이여야함)
